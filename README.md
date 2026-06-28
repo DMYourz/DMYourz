@@ -6,7 +6,7 @@
 [![NIST 800-171](https://img.shields.io/badge/NIST-800--171-darkblue?style=for-the-badge&logo=security&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 [![CMMC](https://img.shields.io/badge/CMMC-Level%202-green?style=for-the-badge&logo=shield&logoColor=white)](https://dodcio.defense.gov/CMMC/)
 [![100% Compliant](https://img.shields.io/badge/Compliance-100%25-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/DMYourz)
-[![Tampa, FL](https://img.shields.io/badge/Location-Valrico%2C%20FL-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Tampa,+FL)
+[![Tampa, FL]
 [![Profile Views](https://komarev.com/ghpvc/?username=DMYourz&style=for-the-badge&color=blueviolet)](https://github.com/DMYourz)
 
 ```
