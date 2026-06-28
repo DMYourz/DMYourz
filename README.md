@@ -42,10 +42,8 @@ PS C:\Users\Daniel> whoami /all | Select-Object SecurityProfile
 ╚═══════════════════════════════════════════════════════════════════════╝
 
 Name              : Daniel Mochkarovsky
-Role              : Cyber Security Analyst I
-Company           : SurvTech
-Location          : Valrico, FL (Tampa Bay Area)
-Clearance         : Government Contractor Compliance Specialist
+Role              : Cyber Security Analyst
+Location          : Tampa Bay Area
 
 [CERTIFICATIONS]
 ├─ CompTIA Security+ (Certified)
